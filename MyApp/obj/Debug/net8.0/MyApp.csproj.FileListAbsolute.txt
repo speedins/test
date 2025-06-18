@@ -12,3 +12,4 @@ C:\Users\rennq\MyApp\obj\Debug\net8.0\refint\MyApp.dll
 C:\Users\rennq\MyApp\obj\Debug\net8.0\MyApp.pdb
 C:\Users\rennq\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
 C:\Users\rennq\MyApp\obj\Debug\net8.0\ref\MyApp.dll
+C:\Users\stud\Source\Repos\speedins\test\MyApp\obj\Debug\net8.0\MyApp.pdb
